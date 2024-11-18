@@ -1,0 +1,60 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "created_utc": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "full_link": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text_label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "flair_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "business",
+        "contract",
+        "criminal",
+        "digital",
+        "driving",
+        "employment",
+        "family",
+        "housing",
+        "insurance",
+        "school",
+        "wills"
+      ],
+      "_type": "ClassLabel"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
